@@ -349,14 +349,14 @@ OU
 ```json
 {
 	"deletedBook": {
-      "id": 1,
-      "title": "A Invenção de Hugo Cabret",
-      "description": "Em 1931, o menino órfão Hugo Cabre      vive escondido em uma estação de trem de Paris      Ali, cuida do funcionamento de gigantescos...",
-      "price": 11.99,
-      "genre": "ação",
-      "author": "Brian Selznick",
-      "createdAt": "2022-01-05T15:46:56.000Z",
-      "updatedAt": "2022-01-15T14:12:37.000Z"
+	      "id": 1,
+	      "title": "A Invenção de Hugo Cabret",
+	      "description": "Em 1931, o menino órfão Hugo Cabre      vive escondido em uma estação de trem de Paris      Ali, cuida do funcionamento de gigantescos...",
+	      "price": 11.99,
+	      "genre": "ação",
+	      "author": "Brian Selznick",
+	      "createdAt": "2022-01-05T15:46:56.000Z",
+	      "updatedAt": "2022-01-15T14:12:37.000Z"
 	}
 }
 ```
