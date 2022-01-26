@@ -78,7 +78,7 @@ class BookController {
         return res.status(200).json(updatedBookResult);
     }
 
-    public async deleteBook(req: Request, res: Response) {
+    public async deleteBook(req: Request, res: Response): Promise<Response> {
         const { value, error } = BookValidator.id(req.params);
         if (error) return res.status(422).json(error);
 
