@@ -101,7 +101,7 @@ OU
 
 ```json
 {
-  msg: "Error when trying to create a new book"
+  "msg": "Error when trying to create a new book"
 }
 ```
 
@@ -180,7 +180,7 @@ OU
 
 ```json
 {
-  msg: "Error when trying to get the books"
+  "msg": "Error when trying to get the books"
 }
 ```
 
@@ -241,7 +241,7 @@ OU
 
 ```json
 {
-  msg: "Error when trying to get the book"
+  "msg": "Error when trying to get the book"
 }
 ```
 
@@ -275,9 +275,6 @@ body
 ```json
 {
   "price": 11.99,
-  //"title": ...
-  //"description": ...
-  //"author": ...
 }
 ```
 
@@ -318,7 +315,7 @@ OU
 
 ```json
 {
-  msg: "Error when trying to update the book"
+  "msg": "Error when trying to update the book"
 }
 ```
 
@@ -381,7 +378,7 @@ OU
 
 ```json
 {
-  msg: "Error when trying to delete the book"
+  "msg": "Error when trying to delete the book"
 }
 ```
 
